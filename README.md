@@ -1,2 +1,4 @@
 # list-and-there-funcation
-In this repo we are using different function with list in python
+In this repo we are using different function 
+<br>
+with list in python
